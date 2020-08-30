@@ -1,0 +1,9 @@
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.UIDesktop\bin\Debug\Agenda.UIDesktop.exe.config
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.UIDesktop\bin\Debug\Agenda.UIDesktop.exe
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.UIDesktop\bin\Debug\Agenda.UIDesktop.pdb
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.Properties.Resources.resources
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csproj.GenerateResource.cache
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.exe
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.pdb
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.Form1.resources

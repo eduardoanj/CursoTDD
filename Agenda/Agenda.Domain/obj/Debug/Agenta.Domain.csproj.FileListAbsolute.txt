@@ -1,0 +1,6 @@
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenta.Domain\bin\Debug\Agenta.Domain.dll
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenta.Domain\bin\Debug\Agenta.Domain.pdb
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenta.Domain\obj\Debug\Agenta.Domain.csprojAssemblyReference.cache
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenta.Domain\obj\Debug\Agenta.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenta.Domain\obj\Debug\Agenta.Domain.dll
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenta.Domain\obj\Debug\Agenta.Domain.pdb

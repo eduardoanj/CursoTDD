@@ -1,0 +1,9 @@
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAL\bin\Debug\netcoreapp2.0\Agenda.DAL.deps.json
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAL\bin\Debug\netcoreapp2.0\Agenda.DAL.dll
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAL\bin\Debug\netcoreapp2.0\Agenda.DAL.pdb
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAL\obj\Debug\netcoreapp2.0\Agenda.DAL.csprojAssemblyReference.cache
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAL\obj\Debug\netcoreapp2.0\Agenda.DAL.AssemblyInfoInputs.cache
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAL\obj\Debug\netcoreapp2.0\Agenda.DAL.AssemblyInfo.cs
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAL\obj\Debug\netcoreapp2.0\Agenda.DAL.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAL\obj\Debug\netcoreapp2.0\Agenda.DAL.dll
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAL\obj\Debug\netcoreapp2.0\Agenda.DAL.pdb

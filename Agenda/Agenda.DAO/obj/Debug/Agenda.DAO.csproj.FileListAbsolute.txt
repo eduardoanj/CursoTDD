@@ -1,0 +1,11 @@
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO\bin\Debug\Agenda.DAO.dll
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO\bin\Debug\Agenda.DAO.pdb
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO\obj\Debug\Agenda.DAO.csprojAssemblyReference.cache
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO\obj\Debug\Agenda.DAO.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO\obj\Debug\Agenda.DAO.dll
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO\obj\Debug\Agenda.DAO.pdb
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO\obj\Debug\Agenda.DAO.csproj.CopyComplete
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO\bin\Debug\Agenda.Domain.dll
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO\bin\Debug\Agenda.Domain.pdb
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO\bin\Debug\Dapper.dll
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO\bin\Debug\Dapper.xml
