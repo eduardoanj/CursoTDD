@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Agenda.DAO;
 using Agenta.Domain;
+using AutoFixture;
 using NUnit.Framework;
 
 namespace Agenda.DAL.Tests
@@ -10,24 +11,21 @@ namespace Agenda.DAL.Tests
     [TestFixture]
     public class AgendaContatosTest : TestBase
     {
-        private DAO.Contatos _contatos;
+        private Contatos _contatos;
+        Fixture _fixture;
 
         [SetUp]
         public void SetUp()
         {
-            _contatos = new DAO.Contatos();
+            _contatos = new Contatos();
+            _fixture = new Fixture();
 
         }
 
         [Test]
         public void AdicionarContatoTest()
         {
-            var contact = new Contato
-            {
-                Id = Guid.NewGuid(),
-                Nome = "Dudu"
-            };
-
+            var contact = _fixture.Create<Contato>();
             _contatos.Adicionar(contact);
 
    
@@ -37,11 +35,7 @@ namespace Agenda.DAL.Tests
         [Test]
         public void ObterContatoTest()
         {
-            var contato = new Contato
-            {
-                Id = Guid.NewGuid(),
-                Nome = "Dudu"
-            };
+            var contato = _fixture.Create<Contato>();
             Contato ContatoResultado;
             
             _contatos.Adicionar(contato);
@@ -51,26 +45,11 @@ namespace Agenda.DAL.Tests
             Assert.AreEqual(contato.Nome, ContatoResultado.Nome);
         }
 
-        [Test]
-        public void ObterTodosOsContatosTest()
-        {
-            var contato1 = new Contato{ Id = Guid.NewGuid(), Nome = "Eddy"};
-            var contato2 = new Contato{ Id = Guid.NewGuid(), Nome = "Fury"};
-            
-            _contatos.Adicionar(contato1);
-            _contatos.Adicionar(contato2);
-            var obterTodos = _contatos.ObterTodos();
-            var contatoResultado = obterTodos.Find(x => x.Id == contato1.Id);
-
-            Assert.IsTrue(obterTodos.Count() > 1);
-            Assert.AreEqual(contato1.Id, contatoResultado.Id);
-            Assert.AreEqual(contato1.Nome, contatoResultado.Nome);
-        }
-
         [TearDown]
         public void TearDown()
         {
             _contatos = null;
+            _fixture = null;
         }
     }
 }

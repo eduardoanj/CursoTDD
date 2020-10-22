@@ -1,6 +1,5 @@
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\Agenda.DAO.Tests.dll
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\Agenda.DAO.Tests.pdb
-C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\Agenda.DAL.dll
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\Agenda.DAO.dll
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\nunit.framework.dll
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\xunit.abstractions.dll
@@ -8,7 +7,6 @@ C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\xunit.
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\xunit.core.dll
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\xunit.execution.desktop.dll
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\Agenda.DAO.pdb
-C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\Agenda.DAL.pdb
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\nunit.framework.pdb
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\nunit.framework.xml
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\xunit.abstractions.xml
@@ -26,3 +24,8 @@ C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\Agenda
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\Dapper.dll
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\Dapper.xml
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\DBAgendaTest_Create.sql
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\AutoFixture.dll
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\Fare.dll
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\AutoFixture.pdb
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\AutoFixture.xml
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.DAO.Tests\bin\Debug\Fare.xml

@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda.DAO", "Agenda.DAO\Ag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda.Domain", "Agenda.Domain\Agenda.Domain.csproj", "{E863C6EA-DEBC-4C25-B3E0-A9566E052ACD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda.Repos", "Agenda.Repos\Agenda.Repos.csproj", "{765553A5-B2C3-4242-9D45-078A03D685B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda.Repos.Test", "Agenda.Repos.Test\Agenda.Repos.Test.csproj", "{F9FBD43F-D0E1-4432-92AE-4A031CD60EBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{E863C6EA-DEBC-4C25-B3E0-A9566E052ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E863C6EA-DEBC-4C25-B3E0-A9566E052ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E863C6EA-DEBC-4C25-B3E0-A9566E052ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765553A5-B2C3-4242-9D45-078A03D685B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765553A5-B2C3-4242-9D45-078A03D685B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765553A5-B2C3-4242-9D45-078A03D685B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765553A5-B2C3-4242-9D45-078A03D685B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9FBD43F-D0E1-4432-92AE-4A031CD60EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9FBD43F-D0E1-4432-92AE-4A031CD60EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9FBD43F-D0E1-4432-92AE-4A031CD60EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9FBD43F-D0E1-4432-92AE-4A031CD60EBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

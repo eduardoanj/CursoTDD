@@ -1,0 +1,16 @@
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.Repos\bin\Debug\netstandard2.0\Agenda.Repos.deps.json
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.Repos\bin\Debug\netstandard2.0\Agenda.Repos.dll
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.Repos\bin\Debug\netstandard2.0\Agenda.Repos.pdb
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.Repos\bin\Debug\netstandard2.0\Agenda.DAO.dll
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.Repos\bin\Debug\netstandard2.0\Agenda.Domain.dll
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.Repos\bin\Debug\netstandard2.0\Dapper.dll
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.Repos\bin\Debug\netstandard2.0\Agenda.DAO.pdb
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.Repos\bin\Debug\netstandard2.0\Agenda.Domain.pdb
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.Repos\bin\Debug\netstandard2.0\Dapper.xml
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.Repos\obj\Debug\netstandard2.0\Agenda.Repos.csprojAssemblyReference.cache
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.Repos\obj\Debug\netstandard2.0\Agenda.Repos.AssemblyInfoInputs.cache
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.Repos\obj\Debug\netstandard2.0\Agenda.Repos.AssemblyInfo.cs
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.Repos\obj\Debug\netstandard2.0\Agenda.Repos.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.Repos\obj\Debug\netstandard2.0\Agenda.Repos.csproj.CopyComplete
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.Repos\obj\Debug\netstandard2.0\Agenda.Repos.dll
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.Repos\obj\Debug\netstandard2.0\Agenda.Repos.pdb

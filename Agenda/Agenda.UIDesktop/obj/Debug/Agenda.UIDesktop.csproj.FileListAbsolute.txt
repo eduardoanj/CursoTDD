@@ -7,3 +7,4 @@ C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.UIDesktop\obj\Debug\Agenda
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.exe
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.pdb
 C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.Form1.resources
+C:\Users\eduardo.anjos\Desktop\CursoTDD\Agenda\Agenda.UIDesktop\obj\Debug\Agenda.UIDesktop.csprojAssemblyReference.cache
